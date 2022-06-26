@@ -1,4 +1,4 @@
-# Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-studio
+# Experiment-No--08-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-studio
 ## Aim :
 To Execute a program for pick and place operations in Doosan Industrial Cobot using DRL studio.
 
